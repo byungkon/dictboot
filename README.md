@@ -1,4 +1,4 @@
-# dictboot
+# Dictboot (absolutely no pun intended)
 Dictionary bootstrapping code and data.
 
 This project is currently under review at a conference as of Apr. 2017.
